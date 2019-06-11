@@ -240,6 +240,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>backpromotion__c</fullName>
+        <externalId>false</externalId>
+        <label>backpromotion</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>field__c</fullName>
         <externalId>false</externalId>
         <label>field</label>
