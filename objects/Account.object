@@ -341,6 +341,16 @@
         <type>TextArea</type>
     </fields>
     <fields>
+        <fullName>selenium2__c</fullName>
+        <externalId>false</externalId>
+        <label>selenium2</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>selenium_test__c</fullName>
         <externalId>false</externalId>
         <label>selenium test</label>
